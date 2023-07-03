@@ -2,6 +2,6 @@
 
 int main()
 {
-  announce ("This is progB.");
+  announce ("Hello from progB.");
   return 0;
 }
